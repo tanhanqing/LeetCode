@@ -68,8 +68,16 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)
 
+
 ## 对撞指针问题
 
+[125](https://leetcode-cn.com/problems/valid-palindrome)
+
+[344](https://leetcode-cn.com/problems/reverse-string)
+
+[11](https://leetcode-cn.com/problems/two-sum)
+
+[345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)
 
 
 
