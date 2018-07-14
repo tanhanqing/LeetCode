@@ -48,4 +48,46 @@
             O(nlogn)级别算法可以处理10^7 数据量
 
             O(n2) 级别 可以处理10^4 数据量
+            
+
+## 杂
+
+log a N = log a b * log b N  =  k log b N  所以底不重要
+
+在递归函数中   考虑 时间复杂度 + 空间复杂度 （递归深度问题）
+
+[l ... r]求中点 为了避免整形溢出  l+(r - l)/2
+
+## 数组基本问题
+
+[27](https://leetcode-cn.com/problems/remove-element) 
+
+[88](https://leetcode-cn.com/problems/merge-sorted-array)
+
+[215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 
+
+[167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)
+
+## 对撞指针问题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
