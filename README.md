@@ -60,7 +60,7 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 ## 数组基本问题
 
-[27](https://leetcode-cn.com/problems/remove-element) 
+[27移除元素](https://leetcode-cn.com/problems/remove-element) 
 
            说明:
            为什么返回数值是整数，但输出的答案是数组呢?
@@ -79,9 +79,9 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 [88合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array)
 
-[215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 
+[215数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) 
 
-[167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)
+[167两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)
 
 
 ## 对撞指针问题
