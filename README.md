@@ -88,6 +88,18 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 [125](https://leetcode-cn.com/problems/valid-palindrome)
 
+           方法：      Character.isLetterOrDigit(cha[i]) 可以判定是不是数字或字母 
+                      Character.toLowerCase(cha[i])  可以将字符转为小写
+           注意： 为了防止单数字符串 我采用了
+                      if(l == r - 2 || l == r - 1){
+                           if(arr[l] == arr[r]){
+                               return true ;
+                           }else{
+                               return false;
+                           }
+                       }
+                  其实考虑清楚可以发现，因为比对完成后 ，会i++ ,同时j-- ，意味着会同时指向字符串中心，已经避免了单数字符串，所以上面的方法是多余的
+
 [344](https://leetcode-cn.com/problems/reverse-string)
 
 [11](https://leetcode-cn.com/problems/two-sum)
