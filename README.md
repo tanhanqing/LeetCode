@@ -146,6 +146,23 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/)
 
 
+## 链表
+
+[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)
+           
+           ListNode next = cur.next;
+
+           cur.next = pre ;
+           pre = cur ;
+           cur = next ;
+
+[92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/)
+
+[83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/)
+
+[86. 分隔链表](https://leetcode-cn.com/problems/partition-list/description/)
+
+
 
 
 
