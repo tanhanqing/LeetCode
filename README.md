@@ -86,7 +86,7 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 ## 对撞指针问题
 
-[125](https://leetcode-cn.com/problems/valid-palindrome)
+[125验证回文串](https://leetcode-cn.com/problems/valid-palindrome)
 
            方法：      Character.isLetterOrDigit(cha[i]) 可以判定是不是数字或字母 
                       Character.toLowerCase(cha[i])  可以将字符转为小写
@@ -100,11 +100,24 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
                        }
                   其实考虑清楚可以发现，因为比对完成后 ，会i++ ,同时j-- ，意味着会同时指向字符串中心，已经避免了单数字符串，所以上面的方法是多余的
 
-[344](https://leetcode-cn.com/problems/reverse-string)
+[344反转字符串](https://leetcode-cn.com/problems/reverse-string)
 
-[11](https://leetcode-cn.com/problems/two-sum)
+[11盛最多水的容器](https://leetcode-cn.com/problems/two-sum)
 
-[345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)
+[345反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)
+
+
+## 滑动窗口问题
+
+[3无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
+
+[209长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/)
+
+[438找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/description/)
+
+[76最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/description/)
+
+
 
 
 
