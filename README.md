@@ -117,6 +117,22 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 [76最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/description/)
 
+## set，map数据结构使用
+
+[350两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)
+
+
+
+## 查找表
+
+[454四数相加2](https://leetcode-cn.com/problems/4sum-ii)
+
+[49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)
+
+[447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/description/)
+
+[149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/description/)
+
 
 
 
