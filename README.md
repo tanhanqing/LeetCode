@@ -133,6 +133,18 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/description/)
 
+## 查找表+滑动窗口
+
+[219. 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/)
+           
+           haspmap<值，所在位置>存储出现的数字，遍历查到相同的比较距离，小于需求返回，大于则更新位置
+
+[3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)
+
+[217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)
+
+[220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/)
+
 
 
 
