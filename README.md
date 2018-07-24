@@ -162,6 +162,15 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/description/)
 
+## 链表构建
+
+[328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/description/)
+           
+[2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)
+
+[445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/description/)
+
+
 
 
 
