@@ -176,8 +176,17 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
                       s1.push(l1.val);
                       s1.pop(); //弹出栈顶元素
                      
+## 设计虚拟头结点
 
+[203. 删除链表中的节点](https://leetcode-cn.com/problems/remove-linked-list-elements/description/)
+           
+[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)
 
+[25. k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/)
+
+[147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/description/)
+
+[148. 排序链表](https://leetcode-cn.com/problems/sort-list/description/)
 
 
 
