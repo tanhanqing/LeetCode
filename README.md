@@ -170,6 +170,13 @@ log a N = log a b * log b N  =  k log b N  所以底不重要
 
 [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/description/)
 
+           1 ， 该问题可以使用数组记录数据，从低位向高位加。
+           2 ， 如果不考虑速度，那么因为是从底层向上层计算，可以想到栈结构，因为栈具有先进后出的特性，刚好符合本题。但是相较数组可能速度较慢。
+                      Stack<Integer> s1 = new Stack<Integer>();  
+                      s1.push(l1.val);
+                      s1.pop(); //弹出栈顶元素
+                     
+
 
 
 
